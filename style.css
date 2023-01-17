@@ -1,5 +1,6 @@
 body{
     font-family: arial , sans-serif;
+    background-color: antiquewhite;
   
     
 }
@@ -55,6 +56,7 @@ h2{
     display: flex;
     flex-direction: row;
     width: 100%;
+    margin-top: 3em;
 }
 
 #learnMore{
